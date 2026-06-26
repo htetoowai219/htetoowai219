@@ -1,7 +1,7 @@
 # 💫 About Me:
-Full-stack MERN developer in progress
-Python + Pygame projects
-Passionate about building scalable web apps
+Full-stack MERN developer in progress |
+Python + Pygame projects |
+Passionate about building scalable web apps |
 Currently diving into cybersecurity & modern web techonologies
 
 
